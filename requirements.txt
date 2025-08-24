@@ -1,0 +1,32 @@
+# Telegram Groups Inspector - Dependencies
+# Core requirements for the application
+
+# Telegram API client
+telethon>=1.24.0
+
+# Environment variables management
+python-dotenv>=0.19.0
+
+# Cross-platform colored terminal text
+colorama>=0.4.4
+
+# Python Imaging Library for image processing
+pillow>=8.0.0
+
+# Modern and designer-friendly templating language
+jinja2>=3.0.0
+
+# Progress bars for long-running operations
+tqdm>=4.62.0
+
+# Rich console library for beautiful terminal UI
+rich>=14.0.0
+
+# SOCKS proxy client
+PySocks>=1.7.1
+
+# Throttling for asyncio
+asyncio-throttle>=1.0.2
+
+# Asynchronous file operations
+aiofiles>=0.8.0
